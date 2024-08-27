@@ -4,37 +4,40 @@ import ecommerce from '../assets/portfolio/ecommerce.png';
 import gst from '../assets/portfolio/gst.png'
 import saloon from '../assets/portfolio/saloon.png'
 import digiwatch from '../assets/portfolio/digiwatch.png'
+import JobZEE from '../assets/portfolio/JobZEE.png'
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
+      src: JobZEE,
+      link: 'https://drive.google.com/file/d/1rjrVKMTdjRj_p08SQZdNsLWzyCVYEKjc/view?usp=sharing',
+    },
+    {
+      id: 2,
       src: pizza,
       link: 'https://pizza-shiv.netlify.app/',
     },
     {
-      id: 2,
+      id: 3,
       src: ecommerce,
       link: 'https://shiv12a10.github.io/E-Commerce/',
     },
     {
-      id: 3,
+      id: 4,
       src: gst,
       link: 'https://shiv12a10.github.io/Game-on-GST/',
     },
     {
-      id: 4,
+      id: 5,
       src: saloon,
       link: 'https://shiv12a10.github.io/Saloon/',
     },
     {
-      id: 5,
+      id: 6,
       src: digiwatch,
       link: 'https://shiv12a10.github.io/Digi-Watch/',
     },
-    // {
-    //   id: 6,
-    //   src: reactWeather,
-    // },
+    
   ];
 
   return (

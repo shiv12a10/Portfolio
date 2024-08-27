@@ -17,13 +17,13 @@ const About = () => {
           Hello Guys, I am Shiv Pratap Singh from Gorakhpur, Uttar Pradesh. I expect you know Gorakhpur, haha that's funny.
           So let me introduce more about myself. I am currently pursuing Bachelor Degree from Vellore Institute Of Technology, Bhopal
           in Computer Science and Engineering with specialization in Gaming Technology. I have done my 10th and 12th from Metropolitan 
-          School (ICSE Board). I scored 85% in 10th and 84% in 12th. Currently I am learning Web Development and DSA.
+          School (ICSE Board). I scored 85% in 10th and 84% in 12th. Currently I am a Full Stack Developer and I am proficient in JAVA programming language and its being 7 Years I am coding in Java.
         </p>
 
         <br />
 
         <p className="text-xl">
-          My Hobbies are trading and Gaming. I love trading a lot. I am also a Intraday and 
+          My Hobbies are trading and Gaming. I love trading a lot. I am also a  
           Long Term investor. I love playing games with my friends.
         </p>
       </div>
