@@ -17,7 +17,7 @@ const Home = () => {
           <p className="text-gray-500 py-4 max-w-md">
             I have 3 years of experience in building and desgining software.
             Currently, I love to work on web application using technologies like
-            ReactJs, Express, Mongoose, NodeJs.
+            ReactJs, Express, Mongoose, NodeJs, Postman, Blender.
           </p>
           <div>
             <Link
