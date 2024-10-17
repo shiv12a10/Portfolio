@@ -15,9 +15,7 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 3 years of experience in building and desgining software.
-            Currently, I love to work on web application using technologies like
-            ReactJs, Express, Mongoose, NodeJs, Postman, Blender.
+          With 4 years of experience, I specialize in developing scalable web applications using ReactJS, NodeJS, Express, AWS, and SQL, with design expertise in Figma and Blender. I'm passionate about creating high-performance solutions for real-world challenges.
           </p>
           <div>
             <Link
@@ -26,7 +24,7 @@ const Home = () => {
               duration={500}
               className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
             >
-              Portfolio
+              Projects
               <span className="group-hover:rotate-90 duration-300">
                 <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
               </span>
