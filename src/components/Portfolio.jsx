@@ -3,7 +3,7 @@ import pizza from "../assets/portfolio/pizza.png";
 import ecommerce from '../assets/portfolio/ecommerce.png';
 import gst from '../assets/portfolio/gst.png'
 import saloon from '../assets/portfolio/saloon.png'
-import digiwatch from '../assets/portfolio/digiwatch.png'
+import pickle from '../assets/portfolio/pickle.png'
 import JobZEE from '../assets/portfolio/JobZEE.png'
 const Portfolio = () => {
   const portfolios = [
@@ -34,8 +34,8 @@ const Portfolio = () => {
     },
     {
       id: 6,
-      src: digiwatch,
-      link: 'https://shiv12a10.github.io/Digi-Watch/',
+      src: pickle,
+      link: 'https://pickle-website-chi.vercel.app/',
     },
     
   ];
